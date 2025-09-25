@@ -108,7 +108,6 @@ CREATE TABLE products (
 * ✅ Tambah produk baru melalui form.
 * 🔒 Password admin disimpan dengan `password_hash`.
 * 📊 Data produk ditampilkan dalam tabel.
-* 📦 Fitur (checkbox) bisa disimpan sebagai JSON.
 
 ---
 
